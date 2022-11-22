@@ -1,0 +1,7 @@
+App(
+    appid="blinker_app",
+    name="Blinker App",
+    apptype=FlipperAppType.EXTERNAL,
+    entry_point="blinker_app",
+    fap_category="Misc",
+)
